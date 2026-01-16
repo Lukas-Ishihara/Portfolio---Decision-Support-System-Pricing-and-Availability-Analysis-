@@ -7,8 +7,11 @@ Built a Decision Support System (DSS) to automate scheduling and oversight for $
 _Click image to view full slide deck (6 Slides)_
 
 # Key Highlights
-The Problem: The department lacked a centralized way to track event details and booking capacity, leading to fragmented data and manual coordination.
+**Problem:**  
+The department lacked a centralized way to track event details and booking capacity, leading to fragmented data and manual coordination.
 
-The Solution: I built an automated Decision Support System (DSS) that consolidates all event-level data and booking statuses into a single operational calendar.
+**The Solution:**  
+I built an automated Decision Support System (DSS) that consolidates all event-level data and booking statuses into a single operational calendar.
 
-The Result: Eliminated manual tracking and provided a "single source of truth" for scheduling 50+ monthly events and managing buyer reservations.
+**The Result:**  
+Eliminated manual tracking and provided a "single source of truth" for scheduling 50+ monthly events and managing buyer reservations.
